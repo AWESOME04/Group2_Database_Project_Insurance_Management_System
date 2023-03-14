@@ -1,4 +1,4 @@
-# Group2_Database_Project_Insurance_Management_System
+# Database Project Insurance Management System
 For our project, we would be designing a database system for an insurance company/agency which would aid in storing, managing, retrieving, and making changes in the records of the agency.
 
 Insurance Management System Database
