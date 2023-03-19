@@ -1,4 +1,7 @@
 # Database Project: Insurance Management System
+
+![Untitled](https://user-images.githubusercontent.com/102630199/226198235-d3042165-60e9-420e-bbbc-418151f95465.jpg)
+
 For our project, we would be designing a database system for an insurance company/agency which would aid in storing, managing, retrieving, and making changes in the records of the agency.
 
 Insurance Management System Database
