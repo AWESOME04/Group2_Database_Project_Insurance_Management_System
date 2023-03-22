@@ -7,6 +7,7 @@ For our project, we would be designing a database system for an insurance compan
 Insurance Management System Database
 
 This repository contains the database for an insurance management system project. The project is designed to provide an efficient and user-friendly interface for managing insurance policies, claims, and related data.
+
 Database schema
 
 The database schema consists of the following tables:
