@@ -66,5 +66,3 @@ Usage
 
 The database can be used with any application or framework that supports SQL. To use the database, you can import the SQL file into your database management system and run queries against the tables.
 License
-
-This project is licensed under the MIT License. Feel free to use and modify the code as you see fit.
